@@ -1,7 +1,5 @@
-bosco:
-	first_name: "Bosco"
-	last_name: "Y"
-	email: "oasiss20@hotmail.com"
-	profile_name: "BoscoY"
-	password: "12345678"
-	password_confirmacion: "12345678"
+jason:
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "jason@teamtreehouse.com"
+  profile_name: "jasonseifer"
